@@ -23,4 +23,4 @@ function loadHomepage(){
 
 }
 import imageSrc from "./asset/homepageImage.png";
-export {loadHomepage}
+export {loadHomepage as loadHomepage}
