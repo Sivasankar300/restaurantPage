@@ -7,7 +7,7 @@ function loadHomepage(){
 
     //Headline
     const heading = document.createElement("div");
-    heading.textContent = "Headline";
+    heading.textContent = "Some Indian Restaurant";
     heading.classList.add("heading","homepage");
     content.appendChild(heading);
 
